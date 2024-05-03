@@ -11,7 +11,7 @@ The Pizza Sales Analysis project offers a detailed examination of a Pizza compan
 - Identification of top-selling pizza categories and sizes, aiding in inventory management and strategic decision-making.
 - Analysis of profit generation and revenue trends, facilitating the optimization of pricing strategies and maximizing profitability.
 - Calculation of profit margins to assess operational efficiency and pinpoint areas for enhancement.
-- Analysis the daily and monthly trend.
+- Analysis of the daily and monthly trend.
 
 ### Overall Impact:
 The Pizza Sales Analysis project equips the company with actionable insights to drive sustainable growth and success. By combining thorough data analysis with daily and monthly trends examination, stakeholders can make informed decisions that optimize operations, enhance profitability, and maximize customer satisfaction.
